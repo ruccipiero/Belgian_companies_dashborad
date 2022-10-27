@@ -1,0 +1,110 @@
+,0,1,2,code
+0,,JuridicalForm,quantity_of_companies,JuridicalForm
+1,0.0,,40.98353881195219,
+2,1.0,Société privée à responsabilité limitée,19.133286677557788,015
+3,2.0,Société à responsabilité limitée,9.156213840879477,610
+4,3.0,Association sans but lucratif,7.533709155623488,017
+5,4.0,Société anonyme,5.315055289240764,014
+6,5.0,Association des copropriétaires,5.045639652829509,070
+7,6.0,Entité étrangère,3.3207355583558567,030
+8,7.0,Société en commandite simple,1.7762648044428895,012
+9,8.0,Société ou association sans personnalité juridique,1.351264321426808,721
+10,9.0,Société en nom collectif,1.258686239193857,011
+11,10.0,Société en commandite,0.9246001163532072,612
+12,11.0,Société coopérative à responsabilité limitée,0.6701579784596295,008
+13,12.0,Entité étrangère sans établissement belge avec représentant responsable TVA,0.6612490151838789,235
+14,13.0,Société coopérative (ancien statut),0.6255058251739395,016
+15,14.0,Unité TVA,0.4117980434628604,003
+16,15.0,Etablissement public,0.27285041743323113,124
+17,16.0,Société coopérative à responsabilité illimitée,0.24945097172101852,006
+18,17.0,Entité étrangère avec un bien immobilier en Belgique (avec personnalité juridique),0.2149421561408518,230
+19,18.0,Association internationale sans but lucratif,0.1277309192547384,125
+20,19.0,Société agricole,0.11570918567782185,025
+21,20.0,Fondation privée,0.10411679972865232,026
+22,21.0,Mutualité / Société Mutualiste / Union nationale de mutualités,0.09118270244277334,019
+23,22.0,Union professionnelle,0.08764058451386042,020
+24,23.0,Société en commandite par actions,0.0869965630722399,013
+25,24.0,Forme légale inconnue (ONSS),0.05543951243283394,999
+26,25.0,Organisation scientifique internationale de droit belge,0.04572552235505761,022
+27,26.0,Société coopérative,0.03638721145155993,706
+28,27.0,Ville / commune,0.03128870837206407,411
+29,28.0,Centre public d'action sociale,0.03128870837206407,412
+30,29.0,Société coopérative à responsabilité limitée à finalité sociale,0.027907595803556288,508
+31,30.0,Fondation d'utilité publique,0.023721456433022845,029
+32,31.0,Etablissement d'utilité publique,0.020179338504109932,018
+33,32.0,Polder / wateringue,0.0178715950049697,129
+34,33.0,Régie communale autonome,0.015456514598892714,418
+35,34.0,Groupement européen d'intérêt économique,0.015295509238487581,065
+36,35.0,Autre forme légale,0.014329477076056786,151
+37,36.0,Groupement d'intérêt économique,0.013041434192815728,060
+38,37.0,Autre forme de droit privé avec personnalité juridique,0.01255841811160033,051
+39,38.0,Société étrangère sans établissement belge cotée en bourse,0.010733690693675496,453
+40,39.0,Zone de police locale,0.010358011519396854,413
+41,40.0,Organisme public étranger ou international,0.009821326984713078,160
+42,41.0,Organisme de financement de pensions,0.008586952554940396,002
+43,42.0,Association de CPAS,0.006923230497420695,420
+44,43.0,Organismes immatriculés pour l'O.N.P.,0.0068158935904839395,451
+45,44.0,Société privée à responsabilité limitée à finalité sociale,0.0045081500913437085,515
+46,45.0,Association d'assurances mutuelles / Caisse commune d'assurances de droit privé,0.004239807824001821,021
+47,46.0,Entité étrangère avec un bien immobilier en Belgique (sans personnalité juridique),0.003971465556659934,454
+48,47.0,Association de projet,0.0038641286497231786,415
+49,48.0,Association momentanée,0.0033274441150394035,722
+50,49.0,Ministère de l'Intérieur,0.0032201072081026487,379
+51,50.0,Association chargée de mission (Région flamande),0.003005433394229139,417
+52,51.0,Société anonyme de droit public,0.002790759580355629,114
+53,52.0,Société à responsabilité limitée de droit public,0.0025224173130137416,616
+54,53.0,Autre service fédéral,0.0024150804060769867,303
+55,54.0,Autorité de la Région flamande et de la Communauté flamande,0.0022004065922034766,310
+56,55.0,Société coopérative de droit public (ancien statut),0.0020930696852667218,116
+57,56.0,Société anonyme à finalité sociale,0.0020930696852667218,514
+58,57.0,Société coopérative à responsabilité limitée de droit public,0.0018247274179248342,108
+59,58.0,Association étrangère privée avec établissement en Belgique,0.0017710589644564568,023
+60,59.0,Zone de secours,0.0017710589644564568,422
+61,60.0,Société de droit commun,0.0016100536040513243,702
+62,61.0,Association sans but lucratif de droit public,0.0014490482436461919,117
+63,62.0,Régie provinciale autonome,0.0014490482436461919,419
+64,63.0,Association prestataire de services (Région flamande),0.0013953797901778144,416
+65,64.0,Corporation professionnelle / Ordre,0.0012880428832410596,123
+66,65.0,Société européenne (Societas Europaea),0.001234374429772682,027
+67,66.0,Intercommunale,0.0011270375228359271,414
+68,67.0,Organisme immatriculé pour l'Administration des Pensions,0.001019700615899172,452
+69,68.0,"Société coopérative à responsabilité limitée, coopérative de participation",0.0009660321624307946,009
+70,69.0,Société en commandite simple à finalité sociale,0.0009660321624307946,512
+71,70.0,Autorité provinciale,0.0008586952554940397,400
+72,71.0,Autorité de la Communauté française,0.0008050268020256622,340
+73,72.0,Service public fédéral,0.0006440214416205298,301
+74,73.0,Autorité de la Région de Bruxelles-Capitale,0.0005903529881521523,330
+75,74.0,Société coopérative à responsabilité illimitée à finalité sociale,0.0005903529881521523,506
+76,75.0,Divers sans personnalité juridique,0.0004830160812153973,790
+77,76.0,Autorité de la Région wallonne,0.00042934762774701985,320
+78,77.0,Société coopérative européenne,0.00037567917427864237,001
+79,78.0,Parti politique européen,0.00037567917427864237,217
+80,79.0,Groupement européen d'intérêt économique sans siège avec établissement en Belgique,0.00037567917427864237,265
+81,80.0,Autorité de la Communauté germanophone,0.0003220107208102649,350
+82,81.0,Ministère de la Région wallonne,0.0003220107208102649,388
+83,82.0,Société en nom collectif à finalité sociale,0.0003220107208102649,511
+84,83.0,Groupement d'intérêt économique à finalité sociale,0.0003220107208102649,560
+85,84.0,Société congolaise (loi de 1927),0.00026834226734188737,040
+86,85.0,"État, Province, Région, Communauté",0.00026834226734188737,110
+87,86.0,Fondation politique européenne,0.00026834226734188737,218
+88,87.0,Ministère de la Communauté française,0.00026834226734188737,386
+89,88.0,Ministère de la Communauté flamande,0.00021467381387350992,385
+90,89.0,Société en formation,0.00016100536040513245,200
+91,90.0,Divers,0.00016100536040513245,393
+92,91.0,"Société coopérative à responsabilité illimitée et solidaire, société coopérative de participation",0.00010733690693675496,007
+93,92.0,Institution sans but lucratif,0.00010733690693675496,028
+94,93.0,Service public fédéral de programmation,0.00010733690693675496,302
+95,94.0,Association internationale sans but lucratif de droit public,0.00010733690693675496,325
+96,95.0,Ministère des Affaires économiques,0.00010733690693675496,370
+97,96.0,Ministère de la Justice,0.00010733690693675496,380
+98,97.0,Société en commandite par actions à finalité sociale,0.00010733690693675496,513
+99,98.0,Société en commandite de droit public,0.00010733690693675496,617
+100,99.0,Société coopérative de droit public,0.00010733690693675496,716
+101,100.0,Monts-de-Piété,5.366845346837748e-05,127
+102,101.0,"Ministère des Affaires étrangères, Commerce extérieur et Coopération au Développement",5.366845346837748e-05,371
+103,102.0,Ministère des Classes moyennes,5.366845346837748e-05,373
+104,103.0,Services du Premier Ministre,5.366845346837748e-05,383
+105,104.0,Ministère de la Région de Bruxelles-Capitale,5.366845346837748e-05,387
+106,105.0,Société coopérative à responsabilité limitée à finalité sociale,5.366845346837748e-05,608
+107,106.0,Autre forme à finalité sociale de droit public,5.366845346837748e-05,651
+108,107.0,Syndicat,5.366845346837748e-05,724
