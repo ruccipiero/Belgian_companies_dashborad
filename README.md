@@ -28,5 +28,5 @@ https://economie.fgov.be/fr/themes/entreprises/banque-carrefour-des
 
 ## Preview
 
-![alt text](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/Master/Images/image1.png?raw=true)
+![Dashboard Image 1](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/main/Images/image1.png?raw=true)
 
