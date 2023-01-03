@@ -25,3 +25,8 @@ In the Pages folder there are the dashboard different pages
 The database are Open data from the BANQUE-CARREFOUR DES ENTREPRISES
 
 https://economie.fgov.be/fr/themes/entreprises/banque-carrefour-des
+
+## Preview
+
+![alt text](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/Master/Images/image1.png?raw=true)
+
