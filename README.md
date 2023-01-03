@@ -30,3 +30,9 @@ https://economie.fgov.be/fr/themes/entreprises/banque-carrefour-des
 
 ![Dashboard Image 1](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/main/Images/image1.png?raw=true)
 
+![Dashboard Image 2](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/main/Images/image2.png?raw=true)
+
+![Dashboard Image 3](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/main/Images/image3.png?raw=true)
+
+![Dashboard Image 4](https://github.com/ruccipiero/Belgian_companies_dashborad/blob/main/Images/image4.png?raw=true)
+
